@@ -1,7 +1,7 @@
 {
-	"boo||web_test": {
-		"helnor||haii hello": {
-			"boobies||:3": "boo, this is a test for loading a wiki page from github"
+	"github||Hello from the internet!": {
+		"data0||Information": {
+			"wit||What is this?": "This is a test tab for getting a json from github!"
 		}
 	}
 }
